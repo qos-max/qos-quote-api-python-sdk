@@ -3,7 +3,7 @@
 [![PyPI version](https://img.shields.io/pypi/v/qos-api)](https://pypi.org/project/qos-api/)
 [![Python versions](https://img.shields.io/pypi/pyversions/qos-api)](https://pypi.org/project/qos-api/)
 
-官方Python SDK for [QOS行情API](https://qos.hk)，支持港股、美股、A股和加密货币的实时行情数据。
+官方Python SDK for [QOS行情API](https://qos.hk)，支持港股、美股、A股和加密货币的实时行情数据,K线数据，历史K线数据，直接提供了港股API,美股API,A股API,加密货币API。
 
 ## 功能特性
 
