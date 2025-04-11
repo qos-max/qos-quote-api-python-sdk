@@ -51,4 +51,4 @@ class WSType(Enum):
 
 BASE_URL = "https://api.qos.hk"
 WS_URL = "wss://api.qos.hk/ws"
-MAX_SUB_CODES = 10  # 默认最大订阅品种数
+MAX_SUB_CODES = 10000  # 默认最大订阅品种数
